@@ -1,5 +1,5 @@
-const getBaseUrl = ()=> {
-    return "http://localhost:7777"
-}
+const getBaseUrl = () => {
+  return "https://book-store-1-zek8.onrender.com";
+};
 
-export default getBaseUrl
+export default getBaseUrl;
